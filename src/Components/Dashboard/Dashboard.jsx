@@ -75,7 +75,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1   hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -92,7 +92,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b ">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -110,7 +110,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -127,7 +127,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -144,7 +144,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -161,7 +161,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>
@@ -178,7 +178,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b">0.65</td>
                 <td className="px-6 py-3 border-b">-</td>
                 <td className="px-6 py-3 border-b">
-                  <div className="border-2 rounded-xl px-2 py-1 hover:bg-slate-200">
+                  <div className="border-2 rounded-xl px-2 py-1  hover:bg-green-500 bg-green-200  border-sky-950">
                     View
                   </div>
                 </td>

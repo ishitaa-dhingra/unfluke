@@ -67,7 +67,7 @@ const Dashboard = () => {
                 <td className=" px-6 py-3 border-b ">#1</td>
                 <td className=" px-6 py-3 border-b ">Selling with re entr</td>
                 <td className=" px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green"/>
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
@@ -84,7 +84,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#2</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b  ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green"/>
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b ">381845</td>
@@ -102,7 +102,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#3</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green" />
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
@@ -119,7 +119,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#3</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green"/>
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
@@ -136,7 +136,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#3</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green"/>
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
@@ -153,7 +153,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#3</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green" />
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
@@ -170,7 +170,7 @@ const Dashboard = () => {
                 <td className="px-6 py-3 border-b ">#3</td>
                 <td className="px-6 py-3 border-b ">Selling with re entr</td>
                 <td className="px-6 py-3 border-b ">
-                  <FaArrowTrendUp />
+                  <FaArrowTrendUp color="green"/>
                   <p>3.96</p>
                 </td>
                 <td className="px-6 py-3 border-b">381845</td>
